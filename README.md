@@ -95,4 +95,4 @@ Presented at **IShowcase 2025**, University of Arizona — an event featuring 30
 ## 👤 Author
 **Venkateshwara Chowdary Tallapaneni**
 MS Information Sciences (Machine Learning) | University of Arizona
-[LinkedIn](https://www.linkedin.com/in/your-linkedin) | [GitHub](https://github.com/venkatesh16180)
+[LinkedIn](www.linkedin.com/in/venkateshwara-chowdary-tallapaneni) | [GitHub](https://github.com/venkatesh16180)
